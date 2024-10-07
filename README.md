@@ -1,7 +1,3 @@
-Here’s a suggestion for the `README.md` file for your repository:
-
----
-
 # Cursor Data Generator
 
 This repository contains tools for generating cursor movement data and visualizing it. The code is designed to help track and record cursor events for dataset generation purposes.
